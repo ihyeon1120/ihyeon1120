@@ -42,7 +42,7 @@
 <br>
 
 - **[My Baekjoon Profile](https://www.acmicpc.net/user/idlgus1120)**
-- **[My PS Repository](https://github.com/YOUR_GITHUB_ID/Algorithm-Solutions)** (이 부분은 자신의 문제풀이 저장소 링크로 수정하세요)
+- **[My PS Repository](https://github.com/ihyeon1120/Algorithm-Solutions)**
 
 <br>
 
